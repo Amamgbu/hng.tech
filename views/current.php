@@ -117,6 +117,19 @@
      					    <a href="#" class="btn-view">view profile</a>
      				</div>
      			</div>
+			<!--Jesse Amamgbu's Profile-->
+			<div class="col-md-3 col-sm-6 col-xs-12">
+			<div class = "intern-block border-blue">
+					<img src= "../app/img/jesse.jpg" alt ="">
+						<h6>Jesse Amamgbu</h6>
+                 <p>Data Science Enthusiast. Aspiring Web Developer.</p>
+                 <ul class="list">
+                 <li><a href="https://www.twitter.com/JessaytheA" target= "_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="https://www.github.com/amamgbu" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="https://medium.com/@jesseamamgbu" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 </ul>
+     					    <a href="https://hng.tech/intern/Jesse_Amamgbu" class="btn-view">view profile</a>
+     				</div>
      		</div>
      	</div>
      </div>
